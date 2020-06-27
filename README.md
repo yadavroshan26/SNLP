@@ -9,7 +9,7 @@ Various Insights Regarding NLP project
 
 4.Readme file.
 
-5. Sentimental analysis Transforming Document and Vectorize  ,Term Frequency and Inverse Document Frequency ,Feature Extraction ,Tokenize ,Sentiment Classication using Logisti Regression ,Model Evaluation.
+5.Sentimental analysis Transforming Document and Vectorize  ,Term Frequency and Inverse Document Frequency ,Feature Extraction ,Tokenize ,Sentiment Classication using Logisti Regression ,Model Evaluation.
 
 6.SNLP file contains ,Brown Corpus and Accessing Data ,Inaugral Corpus and access data ,WEBTEXT CORPUS and Access Data ,Frequency Distribution of words in a text, Conditional Frequency Distribution of words in a text.
   
