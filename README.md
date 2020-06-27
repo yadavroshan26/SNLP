@@ -1,7 +1,7 @@
 # SNLP
 Various Insights Regarding NLP project
 
-1. i_git_ignore file.
+1.i_git_ignore file.
 
 2.Corpus file include, DEMOSTRATING COCA CORPUS, Stemming, Lemmatization, Chinese word segmentation module.
 
